@@ -1,3 +1,3 @@
-let ImageFileNames = ["porky.jpg", "bugs1.png", "bugs2.jpg", "daffy.jpg", "elmer.jpg", "frogguy.png", "marvin.jpg", "roadrunner.jpg", "rockyandmugsy.jpg", "speedy.jpg", "sylvester.jpg", "tazz.jpg", "tweety1.jpg", "tweety2.jpg", "wiley.jpg", "yosemeti.jpg"];
+let ImageFileNames = ["porky.png", "bugs1.png", "bugs2.png", "daffy.png", "elmer.png", "frogguy.png", "marvin.png", "roadrunner.png", "rockyandmugsy.png", "speedy.png", "sylvester.png", "tazz.png", "tweety1.png", "tweety2.png", "wiley.png", "yosemeti.png"];
 
 export default ImageFileNames;
