@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LooneyTunes2/precache-manifest.f494ee0bae9eb82bbb2a3c72b4fa1aba.js"
+  "/LooneyTunes2/precache-manifest.7c09ab115a6d1278db833a802eceef6f.js"
 );
 
 self.addEventListener('message', (event) => {

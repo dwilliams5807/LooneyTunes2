@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7101e601411731e67614d06f06831dfb",
+    "revision": "a9c405d982831987b8aff9b28a60a2ef",
     "url": "/LooneyTunes2/index.html"
   },
   {
-    "revision": "bb6c51920f171931c117",
+    "revision": "652f745d7e2fab489b96",
     "url": "/LooneyTunes2/static/css/main.3d5f3112.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LooneyTunes2/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "bb6c51920f171931c117",
-    "url": "/LooneyTunes2/static/js/main.0b18b16a.chunk.js"
+    "revision": "652f745d7e2fab489b96",
+    "url": "/LooneyTunes2/static/js/main.fd101565.chunk.js"
   },
   {
     "revision": "fb184e38e401d2d8424f",
